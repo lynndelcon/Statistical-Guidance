@@ -22,5 +22,7 @@ From those parametric tests, we provide their non parametric alternatives:
 Finally, we conclude with some tips for the writing of the statistical part of a Master thesis.  
 The following section provides an overview of the tests covered in this draft, notably, the situations specific to each test.
 
+The following picture is a visual non-exhaustive summary of the figures and equations displayed in this draft.
+
 
 ![Statistical guidance](https://github.com/lynndelcon/Statistical-Guidance/blob/main/statguide.png)
